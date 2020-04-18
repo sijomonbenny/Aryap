@@ -1,4 +1,5 @@
-tensorflow-gpu==1.14.0
+tensorflow-gpu>=2.2.0,<=2.3.0
+umap-learn
 umap-learn
 visdom
 webrtcvad
