@@ -1,6 +1,6 @@
 import numpy as np
 import tensorflow as tf
-from tf.contrib.seq2seq import Helper
+from tensorflow.contrib.seq2seq import Helper
 
 
 class TacoTestHelper(Helper):
